@@ -1,0 +1,12 @@
+email: bannan995@gmail.com
+access:
+  admin:
+    login: true
+    super: false
+    pages: true
+  site:
+    login: true
+fullname: 'Ashley Bannan'
+title: Admin
+state: enabled
+hashed_password: $2y$10$3UeKwSn3lOBZ4gIyQ.YMJ.cLZND1w4sbn1nWXJ7M9L0GUQQlxnCUm

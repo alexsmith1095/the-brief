@@ -1,0 +1,12 @@
+email: seanj2uk@yahoo.com
+access:
+  admin:
+    login: true
+    super: false
+    pages: true
+  site:
+    login: true
+fullname: 'Sean Jones'
+title: Editor
+state: enabled
+hashed_password: $2y$10$750/Uxb6SA4HS915AOXINOAQIMHNSC6luhzbTHZRqAcPyHUYRp/Ja

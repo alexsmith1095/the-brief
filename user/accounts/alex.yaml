@@ -1,0 +1,15 @@
+email: alexsmith1095@gmail.com
+fullname: 'Alex Smith'
+title: 'Site Administrator'
+state: enabled
+access:
+  admin:
+    super: 'true'
+    login: 'true'
+    pages: 'true'
+  site:
+    login: 'true'
+hashed_password: $2y$10$ZRgtm2vj4eKs3iNKtB5mj.RLyOGnmPkmgR.CzZQgjm1gveB3p/8jq
+language: en
+groups:
+  - Administrators

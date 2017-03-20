@@ -1,0 +1,12 @@
+email: cheryl406@hotmail.co.uk
+access:
+  admin:
+    login: true
+    super: false
+    pages: true
+  site:
+    login: true
+fullname: 'Cheryl Parker'
+title: Admin
+state: enabled
+hashed_password: $2y$10$1R7WF3i1ztjbqfWMBEUeN.Ms0Wy6ODUojWwd3iWlMLO2db1DUcEzm

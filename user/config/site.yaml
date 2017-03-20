@@ -1,0 +1,17 @@
+title: 'The Brief'
+default_lang: en
+author:
+  name: 'Alex Smith'
+  email: alexsmith1095@gmail.com
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'The Brief is...'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog
